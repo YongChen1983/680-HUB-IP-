@@ -1,0 +1,1 @@
+查看v680-chud手册.pdf这个说明文件.使用Python语言编写需界面操作.硬件使用v680-chud的USB连接，读写V680-D8KF67芯片内容，ASCII显示
